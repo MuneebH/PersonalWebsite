@@ -449,7 +449,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid rgb(75, 21, 201);!important;
+    border: 2px solid rgb(75, 21, 201) !important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -458,7 +458,7 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: rgb(75, 21, 201);!important;
+    background: rgb(75, 21, 201) !important;
 }
 
 /* contact section styling */
