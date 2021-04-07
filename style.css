@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: rgb(31, 29, 29);
+    background: black;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -253,7 +253,7 @@ section .title::after{
 /* services section styling */
 .services, .contact{
     color:#fff;
-    background: rgb(31, 29, 29);
+    background: #111;
 }
 .services .title::before,
 .contact .title::before{
